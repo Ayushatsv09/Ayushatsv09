@@ -16,6 +16,10 @@ I believe the best way to understand physics is to simulate it. Click on any of 
     *A 2D kinematics simulator allowing users to visualize multi-variable projectile trajectories in a dark-mode environment.*
 *   ⚙️ **[Equations of Motion Calculator](https://ayushatsv09.github.io/kinematics-calculator/)**  
     *A rapid calculation tool for classic Newtonian mechanics.*
+    *   🦋 **[Chaos Theory Sandbox: Double Pendulum](https://ayushatsv09.github.io/chaos-theory/)**  
+    *A visually stunning simulation of deterministic chaos, numerically integrating the Lagrangian equations of motion to trace non-linear orbital fractals.*
+*   🔦 **[OpticsLab: Virtual Light Simulator](https://ayushatsv09.github.io/optics-sandbox/)**  
+    *An interactive, colorful laser table simulating Total Internal Reflection, Glass Lens Ray Tracing, and the flow of photons through a Keplerian Space Telescope.*
 
 ---
 
