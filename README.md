@@ -20,7 +20,8 @@ I believe the best way to understand physics is to simulate it. Click on any of 
     *A visually stunning simulation of deterministic chaos, numerically integrating the Lagrangian equations of motion to trace non-linear orbital fractals.*
 *   🔦 **[OpticsLab: Virtual Light Simulator](https://ayushatsv09.github.io/optics-sandbox/)**  
     *An interactive, colorful laser table simulating Total Internal Reflection, Glass Lens Ray Tracing, and the flow of photons through a Keplerian Space Telescope.*
-
+*   🧮 **[NumeriKit: Complete Numerical Analysis](https://ayushatsv09.github.io/numeri-kit/)**  
+    *Interactive toolkit featuring Newton-Raphson, Trapezoidal/Simpson Integration, Runge-Kutta ODE solving, and Lagrange Interpolation with step-by-step solutions and live graphing.*
 ---
 
 ### 💻 Tech Stack & Methodologies
